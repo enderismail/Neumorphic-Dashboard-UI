@@ -1,5 +1,5 @@
 # Neumorphic-Dashboard-UI
 Presenting a Profile / Dashboard View using Neumorphism with SwiftUI
 
-![Preview](https://user-images.githubusercontent.com/7582332/89355183-105d4d80-d6bb-11ea-9c62-39e508db9171.gif)
+![Preview](https://user-images.githubusercontent.com/7582332/89355621-23245200-d6bc-11ea-99c5-bcbe0734160f.png)
 
